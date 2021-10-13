@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub
-(GREAT)（AWESOME)
+(GREAT)（AWESOME)（WONDERFUL)
 
 ## 🤓 Course overview and learning outcomes 
 
